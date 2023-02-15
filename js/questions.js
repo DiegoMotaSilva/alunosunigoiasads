@@ -2,7 +2,7 @@
 let questions = [
   {
   numb: 1,
-  question: "Sobre o modelo de referência Open System Interconnection (OSI), marque a alternativa INCORRETA:Sobre o modelo de referência Open System Interconnection (OSI), marque a alternativa INCORRETA:",
+  question: "Sobre o modelo de referência Open System Interconnection (OSI), marque a alternativa INCORRETA:",
   answer: "A camada mais baixa é a de enlace.",
   options: [
     "A camada mais baixa é a de enlace.",
@@ -14,57 +14,62 @@ let questions = [
 },
   {
   numb: 2,
-  question: "What does CSS stand for?",
-  answer: "Cascading Style Sheet",
+  question: "Como organizar toda esta arquitetura (estrutura) de forma eficiente e satisfatória?",
+  answer: "A solução é aumentar os “esforços” para realizar a comunicação em camadas, com funções e regras bem definidas",
   options: [
-    "Common Style Sheet",
-    "Colorful Style Sheet",
-    "Computer Style Sheet",
-    "Cascading Style Sheet"
+    "A solução é aumentar as camadas para realizar a comunicação entre protocolos, com  regras bem definidas",
+    "A solução é dividir as camadas para realizar a comunicação entre protocolos, com  regras bem definidas",
+    "A solução é aumentar os “esforços” para realizar a comunicação em camadas, com funções e regras bem definidas",
+    "A solução é dividir os “esforços” para realizar a comunicação em camadas, com funções e regras bem definidas",
+    "Nenhuma das alternativas acima"
   ]
 },
   {
   numb: 3,
-  question: "What does PHP stand for?",
-  answer: "Hypertext Preprocessor",
+  question: "O objetivo da arquiteturas de redes é estruturar a rede como um conjunto de camadas (ou nível) hierárquica, de forma a reduzir a complexidade do projeto como um todo, sendo assim marque a alternativa INCORRETA.",
+  answer: "Cada camada utiliza as funções e serviços oferecidos pela camadas superior",
   options: [
-    "Hypertext Preprocessor",
-    "Hypertext Programming",
-    "Hypertext Preprogramming",
-    "Hometext Preprocessor"
+    "Cada camada pode ser entendida como um programa ou processo, que pode ser implementada por hardware ou software",
+    "Cada camada utiliza as funções e serviços oferecidos pela camadas superior",
+    "Cada camada se comunica com a camada remota correspondente",
+    "o	As regras que governam a conversação de cada camada são denominadas protocolos",
+    "o	Os limites entre as camadas são denominados interfaces"
   ]
 },
   {
   numb: 4,
-  question: "What does SQL stand for?",
-  answer: "Structured Query Language",
+  question: "Cada protocolo em uma arquitetura deve resover...",
+  answer: "Uma parte do problema de comunicação",
   options: [
-    "Stylish Question Language",
-    "Stylesheet Query Language",
-    "Statement Question Language",
-    "Structured Query Language"
+    "O problema de comunicação da camada inferior",
+    "Erros de bit de paridade",
+    "Todos os problemas de comunicação",
+    "Problemas de aplicação",
+    "Uma parte do problema de comunicação"
   ]
 },
   {
   numb: 5,
-  question: "What does XML stand for?",
-  answer: "eXtensible Markup Language",
+  question: "O Mode OSI de ISO são dividido em quantas camadas?",
+  answer: "7 Camadas",
   options: [
-    "eXtensible Markup Language",
-    "eXecutable Multiple Language",
-    "eXTra Multi-Program Language",
-    "eXamine Multiple Language"
+    "3 Camadas",
+    "9 Camadas",
+    "7 Camadas",
+    "2 Camadas",
+    "6 Camadas"
   ]
 },
 {
   numb: 6,
-  question: "What does XML stand for?",
-  answer: "eXtensible Markup Language",
+  question: "Qual das opções não é uma camada do modelo OSI?",
+  answer: "Protocolo",
   options: [
-    "eXtensible Markup Language",
-    "eXecutable Multiple Language",
-    "eXTra Multi-Program Language",
-    "eXamine Multiple Language"
+    "Enlace de dados",
+    "Rede",
+    "Protocolo",
+    "Físico",
+    "Aplicação"
   ]
 }
 // you can uncomment the below codes and make duplicate as more as you want to add question
