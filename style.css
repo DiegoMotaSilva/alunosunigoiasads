@@ -108,7 +108,7 @@ body{
 }
 
 .quiz_box{
-    width: 90%;
+    width: 50%;
     background: #fff;
     border-radius: 5px;
     transform: translate(-50%, -50%) scale(0.9);
