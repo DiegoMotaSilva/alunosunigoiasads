@@ -1,0 +1,83 @@
+{
+    "response_code":0,
+    "results":[
+       {
+          "category":"General Knowledge",
+          "type":"multiple",
+          "difficulty":"easy",
+          "question":"Sobre o modelo de referência Open System Interconnection (OSI), marque a alternativa INCORRETA:",
+          "correct_answer":"A camada mais baixa é a de enlace.",
+          "incorrect_answers":[
+            "A camada mais alta é a de aplicação.",
+            "Possui sete camadas.",
+            "A camada mais baixa é a de rede.",
+            "A camada que vem antes da aplicação é a de apresentação."
+          ]
+       },
+       {
+          "category":"General Knowledge",
+          "type":"multiple",
+          "difficulty":"easy",
+          "question":"Como organizar toda esta arquitetura (estrutura) de forma eficiente e satisfatória?",
+          "correct_answer":"A solução é dividir os “esforços” para realizar a comunicação em camadas, com funções e regras bem definidas",
+          "incorrect_answers":[
+            "A solução é aumentar as camadas para realizar a comunicação entre protocolos, com  regras bem definidas",
+            "A solução é dividir as camadas para realizar a comunicação entre protocolos, com  regras bem definidas",
+            "A solução é aumentar os “esforços” para realizar a comunicação em camadas, com funções e regras bem definidas",
+            "Nenhuma das alternativas acima"
+          ]
+       },
+       {
+          "category":"General Knowledge",
+          "type":"multiple",
+          "difficulty":"easy",
+          "question":"O objetivo da arquiteturas de redes é estruturar a rede como um conjunto de camadas (ou nível) hierárquica, de forma a reduzir a complexidade do projeto como um todo, sendo assim marque a alternativa INCORRETA.",
+          "correct_answer":"Cada camada utiliza as funções e serviços oferecidos pela camadas superior",
+          "incorrect_answers":[
+            "Cada camada pode ser entendida como um programa ou processo, que pode ser implementada por hardware ou software",
+            "Cada camada se comunica com a camada remota correspondente",
+            "As regras que governam a conversação de cada camada são denominadas protocolos",
+            "Os limites entre as camadas são denominados interfaces"
+          ]
+       },
+       {
+          "category":"General Knowledge",
+          "type":"multiple",
+          "difficulty":"easy",
+          "question":"Cada protocolo em uma arquitetura deve resover...",
+          "correct_answer":"Uma parte do problema de comunicação",
+          "incorrect_answers":[
+            "O problema de comunicação da camada inferior",
+            "Erros de bit de paridade",
+            "Todos os problemas de comunicação",
+            "Problemas de aplicação"
+          ]
+       },
+       {
+          "category":"General Knowledge",
+          "type":"multiple",
+          "difficulty":"easy",
+          "question":"O Mode OSI de ISO são dividido em quantas camadas?",
+          "correct_answer":"7 Camadas",
+          "incorrect_answers":[
+            "3 Camadas",
+            "9 Camadas",
+            "2 Camadas",
+            "6 Camadas"
+          ]
+       },
+       {
+          "category":"General Knowledge",
+          "type":"multiple",
+          "difficulty":"easy",
+          "question":"Qual das opções não é uma camada do modelo OSI?",
+          "correct_answer":"Protocolo",
+          "incorrect_answers":[
+            "Enlace de dados",
+            "Rede",
+            "Físico",
+            "Aplicação"
+          ]
+       }
+    ]
+ }
